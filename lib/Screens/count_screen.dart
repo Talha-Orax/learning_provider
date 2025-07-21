@@ -1,6 +1,5 @@
 import "package:flutter/material.dart";
 import "package:learning_provider/Provider/count_provider.dart";
-import "package:learning_provider/main.dart";
 import "package:provider/provider.dart";
 
 class CountScreen extends StatefulWidget {
